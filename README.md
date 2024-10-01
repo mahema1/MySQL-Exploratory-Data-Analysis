@@ -1,4 +1,4 @@
-# MySQL-Exploratory-Data-Analysis
+# MySQL-Layoffs Dataset-Exploratory-Data-Analysis
 
 ## Data Cleaning
 
