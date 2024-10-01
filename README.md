@@ -12,5 +12,7 @@ This project cleans and standardizes the "Layoffs 2022" dataset from Kaggle, foc
 7. Finalize table structure
 
 
-##
+##Exploratory Data Analysis
+
+The script reveals patterns in layoff data across different dimensions such as time, geography, industry, and company size. It highlights the most affected sectors and periods, providing a comprehensive view of the layoff landscape in 2022.
 
